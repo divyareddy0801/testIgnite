@@ -1,0 +1,71 @@
+{
+    "response": {
+        "title": "Asset Listing",
+        "version": 2,
+        "code": 200,
+        "href": "https://api.getchute.com/v2/parcels/738289/assets?bearer_token=d1291c9058c4928e8b403f9418c365e3f233082d7459d3a34f9c61beefac5167"
+    },
+    "data": [
+        {
+            "id": 669433756,
+            "links": {
+                "self": {
+                    "href": "http://api.getchute.com/v2/assets/669433756",
+                    "title": "Asset Details"
+                },
+                "exif": {
+                    "href": "http://api.getchute.com/v2/assets/669433756/exif",
+                    "title": "Exif Details"
+                },
+                "geo": {
+                    "href": "http://api.getchute.com/v2/assets/669433756/geo",
+                    "title": "Geo Details"
+                }
+            },
+            "created_at": "2013-09-26T15:24:16Z",
+            "updated_at": "2013-09-26T15:24:16Z",
+            "shortcut": "JiSiEhsat",
+            "type": "image",
+            "caption": "caption",
+            "location": {},
+            "source": {
+                "source": "import",
+                "source_id": null,
+                "service": null,
+                "import_id": null,
+                "import_url": null,
+                "source_url": "http://assets.nydailynews.com/polopoly_fs/1.1159006.1347625986!/img/httpImage/image.jpg_gen/derivatives/gallery_635/celebs-new-york-fashion-week.jpg"
+            },
+            "service": "uploaded",
+            "username": "username",
+            "thumbnail": "http://media.getchute.com/media/JiSiEhsat/75x75",
+            "url": "http://media.getchute.com/media/JiSiEhsat",
+            "dimensions": {
+                "width": null,
+                "height": null
+            },
+            "user": {
+                "id": 545,
+                "links": {
+                    "self": {
+                        "href": "http://api.getchute.com/v2/users/545",
+                        "title": "User Details"
+                    }
+                },
+                "created_at": "2012-01-17T19:53:39Z",
+                "updated_at": "2013-12-05T18:30:57Z",
+                "name": "darko1002001",
+                "username": "darko1002001",
+                "avatar": "http://static.getchute.com/v1/images/avatar-100x100.png",
+                "profile": null
+            }
+        }
+    ],
+    "pagination": {
+        "current_page": 1,
+        "next_page": null,
+        "previous_page": null,
+        "first_page": "https://api.getchute.com/v2/parcels/738289/assets?&bearer_token=d1291c9058c4928e8b403f9418c365e3f233082d7459d3a34f9c61beefac5167",
+        "per_page": 5
+    }
+}

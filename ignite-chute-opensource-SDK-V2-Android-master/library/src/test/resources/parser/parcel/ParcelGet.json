@@ -1,0 +1,24 @@
+{
+    "response": {
+        "title": "Parcel Details",
+        "version": 2,
+        "code": 200,
+        "href": "https://api.getchute.com/v2/parcels/738289?bearer_token=d1291c9058c4928e8b403f9418c365e3f233082d7459d3a34f9c61beefac5167"
+    },
+    "data": {
+        "id": 738289,
+        "links": {
+            "self": {
+                "href": "http://api.getchute.com/v2/parcels/738289",
+                "title": "Parcel Details"
+            },
+            "assets": {
+                "href": "http://api.getchute.com/v2/parcels/738289/assets",
+                "title": "Asset Listing"
+            }
+        },
+        "created_at": "2013-09-26T15:24:16Z",
+        "updated_at": "2013-09-26T15:24:16Z",
+        "shortcut": "363Tuyvh"
+    }
+}

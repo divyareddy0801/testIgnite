@@ -1,0 +1,256 @@
+{
+    "response": {
+        "title": "Album Listing",
+        "version": 2,
+        "code": 200,
+        "href": "https://api.getchute.com/v2/albums?bearer_token=d1291c9058c4928e8b403f9418c365e3f233082d7459d3a34f9c61beefac5167"
+    },
+    "data": [
+        {
+            "id": 2489813,
+            "links": {
+                "self": {
+                    "href": "http://api.getchute.com/v2/albums/2489813",
+                    "title": "Album Details"
+                },
+                "assets": {
+                    "href": "http://api.getchute.com/v2/albums/2489813/assets",
+                    "title": "Asset Listing"
+                },
+                "parcels": {
+                    "href": "http://api.getchute.com/v2/albums/2489813/parcels",
+                    "title": "Parcel Listing"
+                }
+            },
+            "created_at": "2013-12-09T13:24:27Z",
+            "updated_at": "2013-12-09T13:24:27Z",
+            "shortcut": "arIhoqkp",
+            "name": "new",
+            "description": "description",
+            "user": {
+                "id": 545,
+                "links": {
+                    "self": {
+                        "href": "http://api.getchute.com/v2/users/545",
+                        "title": "User Details"
+                    }
+                },
+                "created_at": "2012-01-17T19:53:39Z",
+                "updated_at": "2013-12-05T18:30:57Z",
+                "name": "darko1002001",
+                "username": "darko1002001",
+                "avatar": "http://static.getchute.com/v1/images/avatar-100x100.png",
+                "profile": null
+            },
+            "moderate_media": false,
+            "moderate_comments": false,
+            "parent_id": "23"
+        },
+        {
+            "id": 2476866,
+            "links": {
+                "self": {
+                    "href": "http://api.getchute.com/v2/albums/2476866",
+                    "title": "Album Details"
+                },
+                "assets": {
+                    "href": "http://api.getchute.com/v2/albums/2476866/assets",
+                    "title": "Asset Listing"
+                },
+                "parcels": {
+                    "href": "http://api.getchute.com/v2/albums/2476866/parcels",
+                    "title": "Parcel Listing"
+                }
+            },
+            "created_at": "2013-09-26T15:17:53Z",
+            "updated_at": "2013-10-21T14:47:39Z",
+            "shortcut": "aolsjvbf",
+            "name": "Travelling",
+            "description": null,
+            "user": {
+                "id": 545,
+                "links": {
+                    "self": {
+                        "href": "http://api.getchute.com/v2/users/545",
+                        "title": "User Details"
+                    }
+                },
+                "created_at": "2012-01-17T19:53:39Z",
+                "updated_at": "2013-12-05T18:30:57Z",
+                "name": "darko1002001",
+                "username": "darko1002001",
+                "avatar": "http://static.getchute.com/v1/images/avatar-100x100.png",
+                "profile": null
+            },
+            "moderate_media": false,
+            "moderate_comments": false,
+            "parent_id": null,
+            "cover_asset": {
+                "id": 669437127,
+                "links": {
+                    "self": {
+                        "href": "http://api.getchute.com/v2/assets/669437127",
+                        "title": "Asset Details"
+                    },
+                    "exif": {
+                        "href": "http://api.getchute.com/v2/assets/669437127/exif",
+                        "title": "Exif Details"
+                    },
+                    "geo": {
+                        "href": "http://api.getchute.com/v2/assets/669437127/geo",
+                        "title": "Geo Details"
+                    }
+                },
+                "created_at": "2013-09-26T15:26:56Z",
+                "updated_at": "2013-09-26T15:26:56Z",
+                "shortcut": "JiTb1pqlm",
+                "type": "image",
+                "caption": null,
+                "location": null,
+                "source": {
+                    "source": "import",
+                    "source_id": null,
+                    "service": null,
+                    "import_id": null,
+                    "import_url": null,
+                    "source_url": "http://1.bp.blogspot.com/_aWbNXEa3LP8/TI5Nuz3RBNI/AAAAAAAABRw/XJSnEnNwmTo/s640/NY-Fashion-Week.jpg"
+                },
+                "service": "uploaded",
+                "username": null,
+                "thumbnail": "http://media.getchute.com/media/JiTb1pqlm/75x75",
+                "url": "http://media.getchute.com/media/JiTb1pqlm",
+                "dimensions": {
+                    "width": null,
+                    "height": null
+                }
+            }
+        },
+        {
+            "id": 2476863,
+            "links": {
+                "self": {
+                    "href": "http://api.getchute.com/v2/albums/2476863",
+                    "title": "Album Details"
+                },
+                "assets": {
+                    "href": "http://api.getchute.com/v2/albums/2476863/assets",
+                    "title": "Asset Listing"
+                },
+                "parcels": {
+                    "href": "http://api.getchute.com/v2/albums/2476863/parcels",
+                    "title": "Parcel Listing"
+                }
+            },
+            "created_at": "2013-09-26T15:05:26Z",
+            "updated_at": "2013-09-26T15:05:26Z",
+            "shortcut": "aolpkfha",
+            "name": "New York Fashion Week",
+            "description": null,
+            "user": {
+                "id": 545,
+                "links": {
+                    "self": {
+                        "href": "http://api.getchute.com/v2/users/545",
+                        "title": "User Details"
+                    }
+                },
+                "created_at": "2012-01-17T19:53:39Z",
+                "updated_at": "2013-12-05T18:30:57Z",
+                "name": "darko1002001",
+                "username": "darko1002001",
+                "avatar": "http://static.getchute.com/v1/images/avatar-100x100.png",
+                "profile": null
+            },
+            "moderate_media": false,
+            "moderate_comments": false,
+            "parent_id": null
+        },
+        {
+            "id": 2476862,
+            "links": {
+                "self": {
+                    "href": "http://api.getchute.com/v2/albums/2476862",
+                    "title": "Album Details"
+                },
+                "assets": {
+                    "href": "http://api.getchute.com/v2/albums/2476862/assets",
+                    "title": "Asset Listing"
+                },
+                "parcels": {
+                    "href": "http://api.getchute.com/v2/albums/2476862/parcels",
+                    "title": "Parcel Listing"
+                }
+            },
+            "created_at": "2013-09-26T15:04:23Z",
+            "updated_at": "2013-09-26T15:04:23Z",
+            "shortcut": "aolodlen",
+            "name": "Instagram photos",
+            "description": null,
+            "user": {
+                "id": 545,
+                "links": {
+                    "self": {
+                        "href": "http://api.getchute.com/v2/users/545",
+                        "title": "User Details"
+                    }
+                },
+                "created_at": "2012-01-17T19:53:39Z",
+                "updated_at": "2013-12-05T18:30:57Z",
+                "name": "darko1002001",
+                "username": "darko1002001",
+                "avatar": "http://static.getchute.com/v1/images/avatar-100x100.png",
+                "profile": null
+            },
+            "moderate_media": false,
+            "moderate_comments": false,
+            "parent_id": null
+        },
+        {
+            "id": 2476861,
+            "links": {
+                "self": {
+                    "href": "http://api.getchute.com/v2/albums/2476861",
+                    "title": "Album Details"
+                },
+                "assets": {
+                    "href": "http://api.getchute.com/v2/albums/2476861/assets",
+                    "title": "Asset Listing"
+                },
+                "parcels": {
+                    "href": "http://api.getchute.com/v2/albums/2476861/parcels",
+                    "title": "Parcel Listing"
+                }
+            },
+            "created_at": "2013-09-26T15:00:29Z",
+            "updated_at": "2013-09-26T15:00:29Z",
+            "shortcut": "aolnpcew",
+            "name": "Mobile uploads",
+            "description": null,
+            "user": {
+                "id": 545,
+                "links": {
+                    "self": {
+                        "href": "http://api.getchute.com/v2/users/545",
+                        "title": "User Details"
+                    }
+                },
+                "created_at": "2012-01-17T19:53:39Z",
+                "updated_at": "2013-12-05T18:30:57Z",
+                "name": "darko1002001",
+                "username": "darko1002001",
+                "avatar": "http://static.getchute.com/v1/images/avatar-100x100.png",
+                "profile": null
+            },
+            "moderate_media": false,
+            "moderate_comments": false,
+            "parent_id": null
+        }
+    ],
+    "pagination": {
+        "current_page": 1,
+        "next_page": null,
+        "previous_page": null,
+        "first_page": "https://api.getchute.com/v2/albums?&bearer_token=d1291c9058c4928e8b403f9418c365e3f233082d7459d3a34f9c61beefac5167",
+        "per_page": 5
+    }
+}

@@ -1,0 +1,76 @@
+{
+   "response":{
+      "title":"Asset Details",
+      "version":2,
+      "code":200,
+      "href":"https://api.getchute.com/v2/albums/2476863/assets/669437128?bearer_token=d1291c9058c4928e8b403f9418c365e3f233082d7459d3a34f9c61beefac5167"
+   },
+   "data":{
+      "id":669437128,
+      "links":{
+         "self":{
+            "href":"http://api.getchute.com/v2/albums/2476863/assets/669437128",
+            "title":"Asset Details"
+         },
+         "exif":{
+            "href":"http://api.getchute.com/v2/albums/2476863/assets/669437128/exif",
+            "title":"Exif Details"
+         },
+         "geo":{
+            "href":"http://api.getchute.com/v2/albums/2476863/assets/669437128/geo",
+            "title":"Geo Details"
+         },
+         "heart":{
+            "href":"http://api.getchute.com/v2/albums/2476863/assets/669437128/hearts",
+            "title":"Heart"
+         },
+         "vote":{
+            "href":"http://api.getchute.com/v2/albums/2476863/assets/669437128/votes",
+            "title":"Vote"
+         }
+      },
+      "created_at":"2013-09-26T15:26:56Z",
+      "updated_at":"2013-09-26T15:26:56Z",
+      "shortcut":"JiTb2fble",
+      "type":"image",
+      "caption":"caption",
+      "location":{"latitude":"341354","longitude":"35434"},
+      "source":{
+         "source":"import",
+         "source_id":null,
+         "service":null,
+         "import_id":null,
+         "import_url":null,
+         "source_url":"http://l3.yimg.com/bt/api/res/1.2/LaQdsg9GuQnM_p0TNm69og--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTUxOTtweW9mZj0wO3E9ODU7dz03Njg-/http://media.zenfs.com/en_us/News/afp.com/photo_1378400653383-1-HD.jpg"
+      },
+      "service":"uploaded",
+      "username":"username",
+      "thumbnail":"http://media.getchute.com/m/JiTb2fble/c/2476863/75x75",
+      "url":"http://media.getchute.com/m/JiTb2fble/c/2476863",
+      "dimensions":{
+         "width":null,
+         "height":null
+      },
+      "user":{
+         "id":545,
+         "links":{
+            "self":{
+               "href":"http://api.getchute.com/v2/users/545",
+               "title":"User Details"
+            }
+         },
+         "created_at":"2012-01-17T19:53:39Z",
+         "updated_at":"2013-12-05T18:30:57Z",
+         "name":"darko1002001",
+         "username":"darko1002001",
+         "avatar":"http://static.getchute.com/v1/images/avatar-100x100.png",
+         "profile":null
+      },
+      "votes":3,
+      "hearts":3,
+      "tags":[
+
+      ],
+      "chute_asset_id":"1027295339"
+   }
+}

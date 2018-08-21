@@ -1,0 +1,8 @@
+{
+   "response":{
+      "title":"Comment Deleted",
+      "version":2,
+      "code":200,
+      "href":"https://api.getchute.com/v2/comments/700?bearer_token=f7f1a31c46f95f4085956ae146aa0f3eec1874a9d17ec07de5e22d7c7340da0e"
+   }
+}
